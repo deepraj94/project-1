@@ -1,2 +1,4 @@
 # project-1
-HTML Site
+This is template for HTML Site with Bootstrap 4 CSS and Node.js
+
+Feel feel to comment and give feedback for my project.
